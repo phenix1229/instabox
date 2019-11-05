@@ -23,6 +23,10 @@ body {
 #profile-name {
     font-size : 40px;
     padding-top: 40px;
+    
+}
+#followbox {
+    padding-top: 20px;
 }
 
 #stats {

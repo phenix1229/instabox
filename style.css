@@ -14,6 +14,7 @@ body {
 
 #logo {
     margin: 50px 100px;
+    
 }
 
 #bio {
@@ -36,10 +37,21 @@ body {
 }
 
 #bio-text {
+padding-top: 15px;
+
+}
+
+
+#bluebold {
+color : navy;
+padding-top : 0;
 
 
 }
 #followed-by {
+    font-size: 13px;
+    /* padding-top: 8px; */
+    color : #999999
 
 
 }
@@ -53,6 +65,7 @@ body {
     padding-right: 100px;
     /* width: 1200px;
     height: 100px; */
+    padding-top: 55px
 }
 
 
